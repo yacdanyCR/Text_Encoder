@@ -1,0 +1,49 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+.header__logo{
+    margin-top: 2rem;
+    margin-left: 2rem;
+}
+
+.insert__Text{
+    position: absolute;
+    width: 577px;
+    height: 48px;
+    left: 150px;
+    top: 100px;
+}
+
+.show__Text{
+    background-color: blue;
+    position: absolute;
+    width: 400px;
+    height: 700px;
+    left: 900px;
+    top: 40px;
+    background: #FFFFFF;
+    box-shadow: 0px 24px 32px -8px rgba(0, 0, 0, 0.08);
+    border-radius: 32px;
+}
+
+.show__Text img{
+    position: absolute;
+    width: 336px;
+    height: 304px;
+    left: 10px;
+    top: 160px;
+}
+
+.text__buttons {    
+    position: absolute;
+    width: 680px;
+    height: 67px;
+    left: 240px;
+    top: 600px;
+}
+
+.text__buttons button{
+    padding: 1rem;
+}
