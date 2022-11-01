@@ -119,6 +119,7 @@ textarea{
 
     .show__Logo{
         position: unset;
+        display: none;
     }
     .text__buttons{
         position: unset;
