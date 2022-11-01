@@ -11,6 +11,8 @@ textarea{
     font-weight: 400;
     color: #0A3871;
     font-size: x-large;
+    background-color: #FFFFFF;
+    padding: 1rem;
 }
 
 .header__logo{
@@ -40,8 +42,13 @@ textarea{
 .show__Text{
     position: absolute;
     width: 336px;
-    height: 304px;
-    top: 200px;
+    height: 600px;
+    top: 50px;
+}
+
+.show__Logo{
+    position:absolute;
+    top: 100px;
 }
 
 .text__buttons {    
@@ -69,13 +76,17 @@ textarea{
     color: #FFFFFF;
 }
 
+.show__Messages{
+    position: absolute;
+    top: 400px;
+}
+
 .show__Messages span{
     font-weight: 700;
     font-size: 24px;
     line-height: 200%;
     text-align: center;
     color: #343A40;
-
 }
 
 .desencryt__Button{
